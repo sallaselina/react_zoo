@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sallaselina_react_zoo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sallaselina_react_zoo)
+
 # Animals application
 
 A simple React application for React Basics course. The application features animals of different categories with likes, dislikes and a search bar.
