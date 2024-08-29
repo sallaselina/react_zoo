@@ -1,4 +1,6 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sallaselina_react_zoo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sallaselina_react_zoo)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sallaselina_react_zoo&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sallaselina_react_zoo)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=sallaselina_react_zoo&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=sallaselina_react_zoo)
 
 # Animals application
 
